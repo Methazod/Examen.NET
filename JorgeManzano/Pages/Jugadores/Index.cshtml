@@ -1,0 +1,54 @@
+﻿@page
+@model JorgeManzano.Pages.Jugadores.IndexModel
+@{
+}
+<h1>Jugadores</h1>
+<form method="get" id="form">    
+    <select class="form-control" asp-for="equipoID" id="equipo" style="width: 150px">
+        @foreach (var equipo in Model.listaEquipos)
+        {
+            <option value="@equipo.id">
+                @equipo.nomEquipo
+            </option>
+        }
+    </select>                 
+</form>
+<div class="row">
+    <div class="col-sm-6">
+        @await Component.InvokeAsync("NumJugadoresPorClub")
+    </div>
+    <div class="col-sm-6">
+        @await Component.InvokeAsync("GolesClub")
+    </div>
+</div>
+<div class="card-deck">
+    @foreach (var jugador in Model.listaJugadores)
+    {
+        string photo = "~/imagenes/" + (jugador.foto ?? "noimage.jpg");
+        <div class="card m-3" style="min-width: 18rem; max-width: 30.5%">
+            <div class="card-header">
+                <h3 class="text-center">@jugador.nomJugador</h3>
+            </div>
+            <img class="card-img-top imageThumbail" asp-append-version="true" src="@photo" />
+            <div class="card-body">
+                <div class="card-text">Numero de Goles: @jugador.numGoles</div>
+                <div class="card-text">Equipo: @Model.EquipoRepositorio.getEquipo(jugador.equipoID).nomEquipo</div>
+            </div>
+            <div class="card-footer text-center">
+                <a asp-page="/Alumnos/View" asp-route-Id="@jugador.id" class="btn btn-primary m-1">View</a>
+                <a asp-page="/Alumnos/Edit" asp-route-Id="@jugador.id" class="btn btn-primary m-1">Edit</a>
+                <a asp-page="/Alumnos/Delete" asp-route-Id="@jugador.id" class="btn btn-danger m-1">Delete</a>
+            </div>
+        </div>
+    }
+</div>
+
+@section Scripts {    
+    <script>        
+        const desplegable = document.getElementById("equipo");
+        
+        desplegable.addEventListener("change", function() {                       
+            document.getElementById("form").submit();
+        });
+     </script>      
+}

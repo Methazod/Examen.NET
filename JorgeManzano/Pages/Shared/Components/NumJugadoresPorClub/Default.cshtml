@@ -1,0 +1,20 @@
+﻿@model IEnumerable<JorgeManzano.Modelos.EquipoCuantos>
+
+<h3>Jugadores por Equipos</h3>
+<table class="table table-bordered">
+    <thead class="thead-light">
+        <tr>
+            <th>Equipo</th>
+            <th>Numero jugadores</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var equipo in Model)
+        {
+            <tr>
+                <td>@equipo.Equipo.nomEquipo</td>
+                <td>@equipo.NumJugadores</td>
+            </tr>
+        }
+    </tbody>
+</table>

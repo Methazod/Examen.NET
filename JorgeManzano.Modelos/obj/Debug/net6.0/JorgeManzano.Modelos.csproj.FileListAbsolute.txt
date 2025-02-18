@@ -1,0 +1,12 @@
+D:\Clases\2º año\accesoProyectos\JorgeManzano\JorgeManzano.Modelos\obj\Debug\net6.0\JorgeManzano.Modelos.csproj.AssemblyReference.cache
+D:\Clases\2º año\accesoProyectos\JorgeManzano\JorgeManzano.Modelos\obj\Debug\net6.0\JorgeManzano.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clases\2º año\accesoProyectos\JorgeManzano\JorgeManzano.Modelos\obj\Debug\net6.0\JorgeManzano.Modelos.AssemblyInfoInputs.cache
+D:\Clases\2º año\accesoProyectos\JorgeManzano\JorgeManzano.Modelos\obj\Debug\net6.0\JorgeManzano.Modelos.AssemblyInfo.cs
+D:\Clases\2º año\accesoProyectos\JorgeManzano\JorgeManzano.Modelos\obj\Debug\net6.0\JorgeManzano.Modelos.csproj.CoreCompileInputs.cache
+D:\Clases\2º año\accesoProyectos\JorgeManzano\JorgeManzano.Modelos\bin\Debug\net6.0\JorgeManzano.Modelos.deps.json
+D:\Clases\2º año\accesoProyectos\JorgeManzano\JorgeManzano.Modelos\bin\Debug\net6.0\JorgeManzano.Modelos.dll
+D:\Clases\2º año\accesoProyectos\JorgeManzano\JorgeManzano.Modelos\bin\Debug\net6.0\JorgeManzano.Modelos.pdb
+D:\Clases\2º año\accesoProyectos\JorgeManzano\JorgeManzano.Modelos\obj\Debug\net6.0\JorgeManzano.Modelos.dll
+D:\Clases\2º año\accesoProyectos\JorgeManzano\JorgeManzano.Modelos\obj\Debug\net6.0\refint\JorgeManzano.Modelos.dll
+D:\Clases\2º año\accesoProyectos\JorgeManzano\JorgeManzano.Modelos\obj\Debug\net6.0\JorgeManzano.Modelos.pdb
+D:\Clases\2º año\accesoProyectos\JorgeManzano\JorgeManzano.Modelos\obj\Debug\net6.0\ref\JorgeManzano.Modelos.dll

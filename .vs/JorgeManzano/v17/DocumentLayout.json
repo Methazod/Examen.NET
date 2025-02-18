@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\JorgeManzano\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C099792C-203D-4FE1-85D9-892769B7D4EA}|JorgeManzano\\JorgeManzano.csproj|d:\\clases\\2\u00BA a\u00F1o\\accesoproyectos\\jorgemanzano\\jorgemanzano\\pages\\jugadores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C099792C-203D-4FE1-85D9-892769B7D4EA}|JorgeManzano\\JorgeManzano.csproj|solutionrelative:jorgemanzano\\pages\\jugadores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C099792C-203D-4FE1-85D9-892769B7D4EA}|JorgeManzano\\JorgeManzano.csproj|d:\\clases\\2\u00BA a\u00F1o\\accesoproyectos\\jorgemanzano\\jorgemanzano\\pages\\jugadores\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C099792C-203D-4FE1-85D9-892769B7D4EA}|JorgeManzano\\JorgeManzano.csproj|solutionrelative:jorgemanzano\\pages\\jugadores\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE51ACC4-C1C6-4ECB-9833-F6EDB04D4DF8}|JorgeManzano.Services\\JorgeManzano.Services.csproj|d:\\clases\\2\u00BA a\u00F1o\\accesoproyectos\\jorgemanzano\\jorgemanzano.services\\jugadorrepositoriodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE51ACC4-C1C6-4ECB-9833-F6EDB04D4DF8}|JorgeManzano.Services\\JorgeManzano.Services.csproj|solutionrelative:jorgemanzano.services\\jugadorrepositoriodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE51ACC4-C1C6-4ECB-9833-F6EDB04D4DF8}|JorgeManzano.Services\\JorgeManzano.Services.csproj|d:\\clases\\2\u00BA a\u00F1o\\accesoproyectos\\jorgemanzano\\jorgemanzano.services\\ijugadorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE51ACC4-C1C6-4ECB-9833-F6EDB04D4DF8}|JorgeManzano.Services\\JorgeManzano.Services.csproj|solutionrelative:jorgemanzano.services\\ijugadorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJugadorRepositorio.cs",
+              "DocumentMoniker": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\JorgeManzano\\JorgeManzano.Services\\IJugadorRepositorio.cs",
+              "RelativeDocumentMoniker": "JorgeManzano.Services\\IJugadorRepositorio.cs",
+              "ToolTip": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\JorgeManzano\\JorgeManzano.Services\\IJugadorRepositorio.cs",
+              "RelativeToolTip": "JorgeManzano.Services\\IJugadorRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:01:08.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JugadorRepositorioDB.cs",
+              "DocumentMoniker": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\JorgeManzano\\JorgeManzano.Services\\JugadorRepositorioDB.cs",
+              "RelativeDocumentMoniker": "JorgeManzano.Services\\JugadorRepositorioDB.cs",
+              "ToolTip": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\JorgeManzano\\JorgeManzano.Services\\JugadorRepositorioDB.cs",
+              "RelativeToolTip": "JorgeManzano.Services\\JugadorRepositorioDB.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:01:10.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\JorgeManzano\\JorgeManzano\\Pages\\Jugadores\\Index.cshtml",
+              "RelativeDocumentMoniker": "JorgeManzano\\Pages\\Jugadores\\Index.cshtml",
+              "ToolTip": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\JorgeManzano\\JorgeManzano\\Pages\\Jugadores\\Index.cshtml",
+              "RelativeToolTip": "JorgeManzano\\Pages\\Jugadores\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T08:35:48.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\JorgeManzano\\JorgeManzano\\Pages\\Jugadores\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "JorgeManzano\\Pages\\Jugadores\\Index.cshtml.cs",
+              "ToolTip": "D:\\Clases\\2\u00BA a\u00F1o\\accesoProyectos\\JorgeManzano\\JorgeManzano\\Pages\\Jugadores\\Index.cshtml.cs",
+              "RelativeToolTip": "JorgeManzano\\Pages\\Jugadores\\Index.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:35:53.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
